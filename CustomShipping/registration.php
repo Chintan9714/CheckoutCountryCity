@@ -7,3 +7,4 @@ ComponentRegistrar::register(
     'Chintan_CustomShipping',
     __DIR__
 );
+ 
